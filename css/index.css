@@ -1,0 +1,15 @@
+.product{
+    position: relative;
+}
+.price{
+    position: absolute;
+    top:0;
+    right: 10px;
+    padding:10px;
+    background-color: teal;
+}
+.product p
+{
+    min-height: 125px;
+    
+}
